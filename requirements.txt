@@ -1,0 +1,5 @@
+BeautifulSoup4
+openpyxl
+requests
+chromedriver_autoinstaller
+selenium
